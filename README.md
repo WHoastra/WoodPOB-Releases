@@ -4,7 +4,7 @@ Installer releases for **WoodPOB**, the Personnel On Board tracker for vessels b
 
 This repository holds the installers only; the source code is not public.
 
-- Website: https://wooddvr-site.vercel.app/woodpob
+- Website: https://whoastra-labs-site.vercel.app/woodsolutions/woodpob
 - All downloads: https://github.com/WHoastra/WoodPOB-Releases/releases — `WoodPOB_Setup_<version>.exe` installs over an earlier version in place and keeps your data.
 
 Windows SmartScreen may show a notice on a new publisher's installer: choose *More info*, then *Run anyway*. All installers are built by Whoastra Labs LLC.
